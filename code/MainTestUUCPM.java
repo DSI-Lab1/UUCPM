@@ -1,7 +1,12 @@
 import java.io.IOException;
 
 /**
+ * Copyright (C), 2022-2023, Jinan University
+ * FileName: MainTestUUCPM
+ * Author:   Zefeng Chen
+ * Date:     2023/5/20 21:20
  * Test the UUCPM algorithm.
+ * 
  */
 public class MainTestUUCPM {
 
