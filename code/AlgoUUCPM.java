@@ -5,7 +5,7 @@ import java.util.Map.Entry;
  * Copyright (C), 2022-2023, Jinan University
  * FileName: AlgoUUCPM
  * Author:   Zefeng Chen
- * Date:     2020/1/25 10:20
+ * Date:     2023/5/20 21:20
  * Description: FUCPM algorithm.
  * Pruning strategy: Recurrent PIWU + PIEU.
  * Data structure: Sequence Infomation List and Instance List.
