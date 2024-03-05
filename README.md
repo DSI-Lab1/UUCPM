@@ -10,5 +10,3 @@ A simple way is to run MainTestUUCPM.java.
 ## Benchmarks
 - The data format used is the same as in the file data.txt. That is, different positive integers represent different terms. In addition, "-1" is used as the itemset separator and "-2" is used as the sequence separator.
 - Additional datasets used in the paper can be accessed from the branch of datasets.
-
-## Introduction
